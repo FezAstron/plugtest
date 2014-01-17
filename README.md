@@ -1,0 +1,4 @@
+plugtest
+========
+
+Bukkit Plugin test
